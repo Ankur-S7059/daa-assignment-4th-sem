@@ -1,0 +1,5 @@
+questions...
+1.insertion sort
+2.sum of 2 pair = key
+3.linear search
+4.linear S dyna memo(only C)
